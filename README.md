@@ -1,3 +1,5 @@
+Drive-Link:- https://drive.google.com/file/d/1S2nogjz9O9--5KL96-cDe1dIOIam-TGZ/view?usp=drivesdk
+
 Features
 
 Trending GIFs on Launch: Displays the most popular GIFs by default.
@@ -30,23 +32,10 @@ ViewModel – Manages UI-related data in a lifecycle-aware manner.
 
 LiveData / StateFlow – Observes data changes and updates the UI reactively.
 
-Project Structure
-
-app
-│
-├── components/         # Reusable Composables (GIF card, loader, etc.)
-├── screens/            # HomeScreen, SearchScreen, etc.
-├── network/            # API interface, Retrofit builder
-├── viewmodel/          # ViewModel classes
-├── model/              # Data models for GIFs           
-└── MainActivity.kt     # App entry point
-
-
-
 
 API Used
 
-This app integrates with a GIF API like Giphy or Tenor using REST endpoints (you can add the actual API provider and key info here).
+This app integrates with a GIF API  Giphy  using REST endpoints (Trending, Search).
 
 
 ---
