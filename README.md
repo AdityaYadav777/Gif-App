@@ -32,7 +32,7 @@ LiveData / StateFlow – Observes data changes and updates the UI reactively.
 
 Project Structure
 
-app/
+app
 │
 ├── components/         # Reusable Composables (GIF card, loader, etc.)
 ├── screens/            # HomeScreen, SearchScreen, etc.
@@ -42,7 +42,7 @@ app/
 └── MainActivity.kt     # App entry point
 
 
----
+
 
 API Used
 
